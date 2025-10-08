@@ -154,3 +154,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 	</div>
 </body>
 </html>
+
+<p>Palmeiras é o melhor time do Brasil!</p>
